@@ -1,0 +1,6 @@
+{
+  "name": "A.S.P.E.N.",
+  "description": "Active System Performance Enhancement Network - A cutting-edge AI assistant with system monitoring, voice interaction, and integrated Gemini intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Assistant", "Voice Control", "System Monitoring"]
+}
